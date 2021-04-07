@@ -26,6 +26,8 @@
 		36D794FE261B51F900C666B1 /* algorythm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = algorythm; sourceTree = BUILT_PRODUCTS_DIR; };
 		36D79501261B51F900C666B1 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		36D7950C261C958F00C666B1 /* 1000.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1000.swift; sourceTree = "<group>"; };
+		36D7951F261DF4D700C666B1 /* 1001.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1001.swift; sourceTree = "<group>"; };
+		36D79523261DFD0B00C666B1 /* 두 정수 사이의 합.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "두 정수 사이의 합.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +45,8 @@
 			isa = PBXGroup;
 			children = (
 				36D79500261B51F900C666B1 /* algorythm */,
+				36D7951C261DD8B500C666B1 /* Baekjoon */,
+				36D7951D261DD8C200C666B1 /* Programmers */,
 				36D794FF261B51F900C666B1 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -59,9 +63,25 @@
 			isa = PBXGroup;
 			children = (
 				36D79501261B51F900C666B1 /* main.swift */,
-				36D7950C261C958F00C666B1 /* 1000.swift */,
 			);
 			path = algorythm;
+			sourceTree = "<group>";
+		};
+		36D7951C261DD8B500C666B1 /* Baekjoon */ = {
+			isa = PBXGroup;
+			children = (
+				36D7950C261C958F00C666B1 /* 1000.swift */,
+				36D7951F261DF4D700C666B1 /* 1001.swift */,
+			);
+			path = Baekjoon;
+			sourceTree = "<group>";
+		};
+		36D7951D261DD8C200C666B1 /* Programmers */ = {
+			isa = PBXGroup;
+			children = (
+				36D79523261DFD0B00C666B1 /* 두 정수 사이의 합.swift */,
+			);
+			name = Programmers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
