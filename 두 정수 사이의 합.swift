@@ -13,6 +13,7 @@ let a = Int(arr[0])!
 let b = Int(arr[1])!
 print(solution(a,b))
 
+//1
 func solution(_ a: Int, _ b: Int) -> Int64 {
     var sum = 0
     if a==b {
@@ -24,3 +25,22 @@ func solution(_ a: Int, _ b: Int) -> Int64 {
     }
     return Int64(sum)
 }
+
+//2
+func solution(_ a:Int, _ b:Int) -> Int64 {
+    var sum = 0
+    if a < b {
+        for i in a...b { sum += i }
+    } else {
+        for i in b...a { sum += i }
+        
+    }
+    return Int64(sum)
+}
+
+//3
+func solution(_ a:Int, _ b:Int) -> Int64 {
+    return Int64(Array(a < b ? a...b : b...a).reduce(0, +))
+}
+
+

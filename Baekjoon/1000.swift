@@ -34,3 +34,10 @@ if let a = Int(array[0]), let b = Int(array[1]) {
     print(a+b)
 }
 
+//6 4ms
+print((readLine()?.split(separator: " ").map { Int($0)! }.reduce(0) { $0 + $1 })!)
+
+//7 4ms
+let line = readLine()!
+print(line.characters.split(separator:" ").map{Int(String($0))!}.reduce(0,{$0 + $1}))
+
