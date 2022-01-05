@@ -5,8 +5,6 @@
 //  Created by SeoYeon Hong on 2021/05/09.
 //
 
-import Foundation
-
 func solution(_ arr:[Int]) -> Double {
     var sum = 0
     for i in arr {
