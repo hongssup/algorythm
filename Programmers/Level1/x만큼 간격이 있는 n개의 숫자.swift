@@ -13,6 +13,8 @@
  - n은 1000 이하인 자연수입니다.
  */
 
+print(solution(4,-4))  //[-4, -8, -12, -16]
+
 //모범답안
 func solution(_ x:Int, _ n:Int) -> [Int64] {
     var result = [Int64]()
