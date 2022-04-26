@@ -1,5 +1,5 @@
 //
-//  1000.swift
+//  1000 A+B.swift
 //  algorythm
 //
 //  Created by SeoYeon Hong on 2021/04/06.
