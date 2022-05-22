@@ -24,6 +24,7 @@ public func solution(_ N : Int) -> Int {
     for i in n {
         if i == "0" { zeroCnt += 1 }
         else {
+            if zeroCnt == 0 { continue }
             zeroLen.append(zeroCnt)
             zeroCnt = 0
         }
