@@ -110,6 +110,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		36384F9C291FEC22006C708B /* Level3 */ = {
+			isa = PBXGroup;
+			children = (
+				36384F9D291FEC4F006C708B /* 이중우선순위큐.swift */,
+			);
+			path = Level3;
+			sourceTree = "<group>";
+		};
 		3671FA922837D2820054B1B3 /* Codility */ = {
 			isa = PBXGroup;
 			children = (
@@ -140,6 +148,7 @@
 		36C82FEE27848D67001381C4 /* Programmers */ = {
 			isa = PBXGroup;
 			children = (
+				36384F9C291FEC22006C708B /* Level3 */,
 				368592FC281771D80027A9AE /* Level2 */,
 				36C82FEF27848DAC001381C4 /* Level1 */,
 			);
