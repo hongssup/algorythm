@@ -35,3 +35,44 @@ for num in mArray {
 }
 
 print(result.map{ String($0) }.joined(separator: " "))
+
+//이분탐색 - while 반복문 113900KB 748ms
+nArray.sort()
+var result = [Int]()
+
+for num in mArray {
+    let s = lowerBound(nArray, num)
+    let e = upperBound(nArray, num)
+    result.append(e - s)
+}
+print(result.map{ String($0) }.joined(separator: " "))
+
+func lowerBound(_ arr: [Int], _ k: Int) -> Int {
+    var s = 0
+    var e = arr.count
+
+    while s < e {
+        let mid = (s + e)/2
+        if arr[mid] < k {
+            s = mid + 1
+        } else {
+            e = mid
+        }
+    }
+    return s
+}
+
+func upperBound(_ arr: [Int], _ k: Int) -> Int {
+    var s = 0
+    var e = arr.count
+
+    while s < e {
+        let mid = (s + e)/2
+        if arr[mid] <= k {
+            s = mid + 1
+        } else {
+            e = mid
+        }
+    }
+    return s
+}
