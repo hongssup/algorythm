@@ -99,6 +99,7 @@
 		36D7952E262490D700C666B1 /* 문자열 내 p와 y의 개수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "문자열 내 p와 y의 개수.swift"; sourceTree = "<group>"; };
 		36D795642628861B00C666B1 /* 문자열을 정수로 바꾸기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "문자열을 정수로 바꾸기.swift"; sourceTree = "<group>"; };
 		36E4701D295F162B00424834 /* 1920 수 찾기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1920 수 찾기.swift"; sourceTree = "<group>"; };
+		36E470202961921900424834 /* 10816 숫자 카드 2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10816 숫자 카드 2.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -255,6 +256,7 @@
 		36D7951C261DD8B500C666B1 /* Baekjoon */ = {
 			isa = PBXGroup;
 			children = (
+				36E4701F296191EE00424834 /* 해시 Hash */,
 				36E4701C295F160300424834 /* 이진탐색 BinarySearch */,
 				36D7950C261C958F00C666B1 /* 1000 A+B.swift */,
 				36D7951F261DF4D700C666B1 /* 1001 A-B.swift */,
@@ -273,6 +275,15 @@
 			);
 			name = "이진탐색 BinarySearch";
 			path = "이진탐색 BinarySearch";
+			sourceTree = "<group>";
+		};
+		36E4701F296191EE00424834 /* 해시 Hash */ = {
+			isa = PBXGroup;
+			children = (
+				36E470202961921900424834 /* 10816 숫자 카드 2.swift */,
+			);
+			name = "해시 Hash";
+			path = "해시 Hash";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
