@@ -32,15 +32,14 @@ func solution(_ progresses:[Int], _ speeds:[Int]) -> [Int] {
         }
         daysArr.append(days)
     }
+    
     var result = [1]
-    var index = 0
     for i in 1..<daysArr.count {
         if daysArr[i] > daysArr[i-1] {
             result.append(1)
-            index += 1
         } else {
             daysArr[i] = daysArr[i-1]
-            result[index] += 1
+            result[result.count - 1] += 1
         }
     }
     return result
