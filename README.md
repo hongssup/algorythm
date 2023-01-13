@@ -12,6 +12,7 @@
 || 2231 분해합 | Bronze 2 | 백준 |
 | DFS / BFS | [1260 DFS와 BFS](https://hongssup.tistory.com/498) | Silver 2 | 백준 |
 || [2606 바이러스](https://hongssup.tistory.com/499) | Silver 3 | 백준 |
+|| [2178 미로 탐색](https://hongssup.tistory.com/501) | Silver 1 | 백준 |
 | 해시 Hash | 신고 결과 받기  | Lv.1 | programmers |
 || 위장 | Lv.2 | programmers |
 || [10816 숫자 카드 2](https://hongssup.tistory.com/487) | Silver 4 | 백준 |
@@ -27,6 +28,6 @@
 | 플랫폼 | 해결한 문제 수 |
 |:-:|:-:|
 | programmers | 74 |
-| 백준 | 12 |
+| 백준 | 13 |
 | Codility | 2 |
-| 총 합 | 88 |
+| 총 합 | 89 |
