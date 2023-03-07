@@ -107,6 +107,7 @@
 		36E470202961921900424834 /* 10816 숫자 카드 2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10816 숫자 카드 2.swift"; sourceTree = "<group>"; };
 		36E470222963023600424834 /* 1654 랜선 자르기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1654 랜선 자르기.swift"; sourceTree = "<group>"; };
 		36E470232963D28500424834 /* 2805 나무 자르기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2805 나무 자르기.swift"; sourceTree = "<group>"; };
+		36F5B53C29B7283700926065 /* 10828 스택.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10828 스택.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -275,6 +276,7 @@
 		36D7951C261DD8B500C666B1 /* Baekjoon */ = {
 			isa = PBXGroup;
 			children = (
+				36F5B53B29B727D300926065 /* 스택 Stack */,
 				368A2FF4296EBAAE004674F2 /* DFS BFS */,
 				36E4701F296191EE00424834 /* 해시 Hash */,
 				36E4701C295F160300424834 /* 이분탐색 BinarySearch */,
@@ -306,6 +308,15 @@
 			);
 			name = "해시 Hash";
 			path = "해시 Hash";
+			sourceTree = "<group>";
+		};
+		36F5B53B29B727D300926065 /* 스택 Stack */ = {
+			isa = PBXGroup;
+			children = (
+				36F5B53C29B7283700926065 /* 10828 스택.swift */,
+			);
+			name = "스택 Stack";
+			path = "스택 큐";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
