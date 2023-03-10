@@ -111,6 +111,7 @@
 		36F5B53E29B87CCB00926065 /* 10773 제로.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10773 제로.swift"; sourceTree = "<group>"; };
 		36F5B53F29B87CE200926065 /* 9012 괄호.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "9012 괄호.swift"; sourceTree = "<group>"; };
 		36F5B54029B87CF000926065 /* 4949 균형잡힌 세상.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "4949 균형잡힌 세상.swift"; sourceTree = "<group>"; };
+		36F5B54229BAE17000926065 /* 2457. Minimum Addition to Make Integer Beautiful.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2457. Minimum Addition to Make Integer Beautiful.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -255,6 +256,7 @@
 				36D7951C261DD8B500C666B1 /* Baekjoon */,
 				36C82FEE27848D67001381C4 /* Programmers */,
 				3671FA922837D2820054B1B3 /* Codility */,
+				36F5B54129BAE13500926065 /* LeetCode */,
 				36CC7A94294AEAAB00ECAB27 /* etc */,
 				36D794FF261B51F900C666B1 /* Products */,
 			);
@@ -323,6 +325,14 @@
 			);
 			name = "스택 Stack";
 			path = "스택 큐";
+			sourceTree = "<group>";
+		};
+		36F5B54129BAE13500926065 /* LeetCode */ = {
+			isa = PBXGroup;
+			children = (
+				36F5B54229BAE17000926065 /* 2457. Minimum Addition to Make Integer Beautiful.swift */,
+			);
+			path = LeetCode;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
