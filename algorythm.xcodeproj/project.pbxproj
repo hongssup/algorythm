@@ -112,6 +112,7 @@
 		36F5B53F29B87CE200926065 /* 9012 괄호.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "9012 괄호.swift"; sourceTree = "<group>"; };
 		36F5B54029B87CF000926065 /* 4949 균형잡힌 세상.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "4949 균형잡힌 세상.swift"; sourceTree = "<group>"; };
 		36F5B54229BAE17000926065 /* 2457. Minimum Addition to Make Integer Beautiful.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2457. Minimum Addition to Make Integer Beautiful.swift"; sourceTree = "<group>"; };
+		36F5B54329BB909400926065 /* 1874 스택 수열.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1874 스택 수열.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -322,6 +323,7 @@
 				36F5B53E29B87CCB00926065 /* 10773 제로.swift */,
 				36F5B53F29B87CE200926065 /* 9012 괄호.swift */,
 				36F5B54029B87CF000926065 /* 4949 균형잡힌 세상.swift */,
+				36F5B54329BB909400926065 /* 1874 스택 수열.swift */,
 			);
 			name = "스택 Stack";
 			path = "스택 큐";
