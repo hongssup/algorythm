@@ -21,6 +21,7 @@
 || [기능 개발](https://hongssup.tistory.com/318) | Lv.2 | programmers |
 || [프린터](https://hongssup.tistory.com/428) | Lv.2 | programmers |
 || [10828 스택](https://hongssup.tistory.com/528) | Silver 4 | 백준 |
+|| [1874 스택 수열](https://hongssup.tistory.com/533) | Silver 2 | 백준 |
 | [이분탐색 Binary Search](https://hongssup.tistory.com/485) | [1920 수 찾기](https://hongssup.tistory.com/484) | Silver 4 | 백준 |
 || [1654 랜선 자르기](https://hongssup.tistory.com/488) | Silver 2 | 백준 |
 || [2805 나무 자르기](https://hongssup.tistory.com/490) | Silver 2 | 백준 |
@@ -30,6 +31,7 @@
 | 플랫폼 | 해결한 문제 수 |
 |:-:|:-:|
 | programmers | 74 |
-| 백준 | 15 |
+| 백준 | 19 |
 | Codility | 2 |
-| 총 합 | 91 |
+| LeetCode | 1 |
+| 총 합 | 96 |
