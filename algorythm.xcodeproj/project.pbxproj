@@ -106,6 +106,7 @@
 		36D9E51E29D1DD70002A99B8 /* 2164 카드2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2164 카드2.swift"; sourceTree = "<group>"; };
 		36D9E51F29D2AC19002A99B8 /* 11866 요세푸스 문제.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "11866 요세푸스 문제.swift"; sourceTree = "<group>"; };
 		36D9E52029D5C0A9002A99B8 /* 1966 프린터 큐.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1966 프린터 큐.swift"; sourceTree = "<group>"; };
+		36D9E52229D80196002A99B8 /* 118. Pascal's Triangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "118. Pascal's Triangle.swift"; sourceTree = "<group>"; };
 		36E4701D295F162B00424834 /* 1920 수 찾기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1920 수 찾기.swift"; sourceTree = "<group>"; };
 		36E470202961921900424834 /* 10816 숫자 카드 2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10816 숫자 카드 2.swift"; sourceTree = "<group>"; };
 		36E470222963023600424834 /* 1654 랜선 자르기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1654 랜선 자르기.swift"; sourceTree = "<group>"; };
@@ -311,6 +312,14 @@
 			path = "큐 Queue";
 			sourceTree = "<group>";
 		};
+		36D9E52129D8016A002A99B8 /* DynamicProgramming */ = {
+			isa = PBXGroup;
+			children = (
+				36D9E52229D80196002A99B8 /* 118. Pascal's Triangle.swift */,
+			);
+			path = DynamicProgramming;
+			sourceTree = "<group>";
+		};
 		36E4701C295F160300424834 /* 이분탐색 BinarySearch */ = {
 			isa = PBXGroup;
 			children = (
@@ -347,6 +356,7 @@
 		36F5B54129BAE13500926065 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				36D9E52129D8016A002A99B8 /* DynamicProgramming */,
 				36F5B54229BAE17000926065 /* 2457. Minimum Addition to Make Integer Beautiful.swift */,
 			);
 			path = LeetCode;
