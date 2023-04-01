@@ -107,6 +107,7 @@
 		36D9E51F29D2AC19002A99B8 /* 11866 요세푸스 문제.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "11866 요세푸스 문제.swift"; sourceTree = "<group>"; };
 		36D9E52029D5C0A9002A99B8 /* 1966 프린터 큐.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1966 프린터 큐.swift"; sourceTree = "<group>"; };
 		36D9E52229D80196002A99B8 /* 118. Pascal's Triangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "118. Pascal's Triangle.swift"; sourceTree = "<group>"; };
+		36D9E52329D810ED002A99B8 /* 119. Pascal's Triangle II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "119. Pascal's Triangle II.swift"; sourceTree = "<group>"; };
 		36E4701D295F162B00424834 /* 1920 수 찾기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1920 수 찾기.swift"; sourceTree = "<group>"; };
 		36E470202961921900424834 /* 10816 숫자 카드 2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10816 숫자 카드 2.swift"; sourceTree = "<group>"; };
 		36E470222963023600424834 /* 1654 랜선 자르기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1654 랜선 자르기.swift"; sourceTree = "<group>"; };
@@ -316,6 +317,7 @@
 			isa = PBXGroup;
 			children = (
 				36D9E52229D80196002A99B8 /* 118. Pascal's Triangle.swift */,
+				36D9E52329D810ED002A99B8 /* 119. Pascal's Triangle II.swift */,
 			);
 			path = DynamicProgramming;
 			sourceTree = "<group>";
