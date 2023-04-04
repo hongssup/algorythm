@@ -112,6 +112,7 @@
 		36D9E52529DA97BA002A99B8 /* 53. Maximum Subarray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "53. Maximum Subarray.swift"; sourceTree = "<group>"; };
 		36D9E52729DAA271002A99B8 /* 10211 Maximum Subarray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10211 Maximum Subarray.swift"; sourceTree = "<group>"; };
 		36D9E52829DAC356002A99B8 /* 11659 구간 합 구하기 4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "11659 구간 합 구하기 4.swift"; sourceTree = "<group>"; };
+		36D9E52929DC25AF002A99B8 /* 2559 수열.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2559 수열.swift"; sourceTree = "<group>"; };
 		36E4701D295F162B00424834 /* 1920 수 찾기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1920 수 찾기.swift"; sourceTree = "<group>"; };
 		36E470202961921900424834 /* 10816 숫자 카드 2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10816 숫자 카드 2.swift"; sourceTree = "<group>"; };
 		36E470222963023600424834 /* 1654 랜선 자르기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1654 랜선 자르기.swift"; sourceTree = "<group>"; };
@@ -334,6 +335,7 @@
 			children = (
 				36D9E52729DAA271002A99B8 /* 10211 Maximum Subarray.swift */,
 				36D9E52829DAC356002A99B8 /* 11659 구간 합 구하기 4.swift */,
+				36D9E52929DC25AF002A99B8 /* 2559 수열.swift */,
 			);
 			name = "누적 합 Prefix Sum";
 			path = "누적 합 Prefix Sum";
