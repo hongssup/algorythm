@@ -113,6 +113,7 @@
 		36D9E52729DAA271002A99B8 /* 10211 Maximum Subarray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10211 Maximum Subarray.swift"; sourceTree = "<group>"; };
 		36D9E52829DAC356002A99B8 /* 11659 구간 합 구하기 4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "11659 구간 합 구하기 4.swift"; sourceTree = "<group>"; };
 		36D9E52929DC25AF002A99B8 /* 2559 수열.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2559 수열.swift"; sourceTree = "<group>"; };
+		36D9E52E29DE7890002A99B8 /* 11660 구간 합 구하기 5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "11660 구간 합 구하기 5.swift"; sourceTree = "<group>"; };
 		36E4701D295F162B00424834 /* 1920 수 찾기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1920 수 찾기.swift"; sourceTree = "<group>"; };
 		36E470202961921900424834 /* 10816 숫자 카드 2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10816 숫자 카드 2.swift"; sourceTree = "<group>"; };
 		36E470222963023600424834 /* 1654 랜선 자르기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1654 랜선 자르기.swift"; sourceTree = "<group>"; };
@@ -292,6 +293,7 @@
 		36D7951C261DD8B500C666B1 /* Baekjoon */ = {
 			isa = PBXGroup;
 			children = (
+				36D9E52D29DE7857002A99B8 /* 동적 계획법 Dynamic Programming */,
 				36D9E52629DAA1FF002A99B8 /* 누적 합 Prefix Sum */,
 				36D9E51D29D1DD35002A99B8 /* 큐 Queue */,
 				36F5B53B29B727D300926065 /* 스택 Stack */,
@@ -339,6 +341,15 @@
 			);
 			name = "누적 합 Prefix Sum";
 			path = "누적 합 Prefix Sum";
+			sourceTree = "<group>";
+		};
+		36D9E52D29DE7857002A99B8 /* 동적 계획법 Dynamic Programming */ = {
+			isa = PBXGroup;
+			children = (
+				36D9E52E29DE7890002A99B8 /* 11660 구간 합 구하기 5.swift */,
+			);
+			name = "동적 계획법 Dynamic Programming";
+			path = "동적 계획법 Dynamic Programming";
 			sourceTree = "<group>";
 		};
 		36E4701C295F160300424834 /* 이분탐색 BinarySearch */ = {
