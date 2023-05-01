@@ -27,6 +27,7 @@
 		3603E42529F6BB430049D7F9 /* 2399. Check Distances Between Same Letters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2399. Check Distances Between Same Letters.swift"; sourceTree = "<group>"; };
 		3603E42629F6D58B0049D7F9 /* 2506. Count Pairs Of Similar Strings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2506. Count Pairs Of Similar Strings.swift"; sourceTree = "<group>"; };
 		360FCE1926482FC500531E6B /* 평균 구하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "평균 구하기.swift"; sourceTree = "<group>"; };
+		361A22BA29FB6E3F00BFE6D3 /* 682. Baseball Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "682. Baseball Game.swift"; sourceTree = "<group>"; };
 		3620088327BD21E100E7E396 /* 비밀지도.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "비밀지도.swift"; sourceTree = "<group>"; };
 		36384F8E290786A6006C708B /* 삼총사.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "삼총사.swift"; sourceTree = "<group>"; };
 		36384F8F2909561C006C708B /* 콜라 문제.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "콜라 문제.swift"; sourceTree = "<group>"; };
@@ -150,6 +151,14 @@
 				3603E42629F6D58B0049D7F9 /* 2506. Count Pairs Of Similar Strings.swift */,
 			);
 			path = HashTable;
+			sourceTree = "<group>";
+		};
+		361A22B929FB6E1C00BFE6D3 /* Stack */ = {
+			isa = PBXGroup;
+			children = (
+				361A22BA29FB6E3F00BFE6D3 /* 682. Baseball Game.swift */,
+			);
+			path = Stack;
 			sourceTree = "<group>";
 		};
 		36384F9C291FEC22006C708B /* Level3 */ = {
@@ -414,6 +423,7 @@
 		36F5B54129BAE13500926065 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				361A22B929FB6E1C00BFE6D3 /* Stack */,
 				3603E42329F6932E0049D7F9 /* HashTable */,
 				36D9E52129D8016A002A99B8 /* DynamicProgramming */,
 				36F5B54229BAE17000926065 /* 2457. Minimum Addition to Make Integer Beautiful.swift */,
