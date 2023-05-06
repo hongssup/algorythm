@@ -56,6 +56,7 @@
 		368593032818B5280027A9AE /* 10870 피보나치수5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10870 피보나치수5.swift"; sourceTree = "<group>"; };
 		36859305281A698F0027A9AE /* 2798 블랙잭.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2798 블랙잭.swift"; sourceTree = "<group>"; };
 		36859307281A94730027A9AE /* 2231 분해합.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2231 분해합.swift"; sourceTree = "<group>"; };
+		368846852A04D15900912E17 /* 1387. Sort Integers by The Power Value.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1387. Sort Integers by The Power Value.swift"; sourceTree = "<group>"; };
 		368A2FF32965B2DF004674F2 /* demo task.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "demo task.swift"; sourceTree = "<group>"; };
 		368A2FF5296EBADF004674F2 /* 1260 DFS와 BFS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1260 DFS와 BFS.swift"; sourceTree = "<group>"; };
 		368A2FF7296FE0E7004674F2 /* 2606 바이러스.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2606 바이러스.swift"; sourceTree = "<group>"; };
@@ -365,6 +366,7 @@
 				36D9E52329D810ED002A99B8 /* 119. Pascal's Triangle II.swift */,
 				36D9E52429D81DD6002A99B8 /* 70. Climbing Stairs.swift */,
 				36D9E52529DA97BA002A99B8 /* 53. Maximum Subarray.swift */,
+				368846852A04D15900912E17 /* 1387. Sort Integers by The Power Value.swift */,
 			);
 			path = DynamicProgramming;
 			sourceTree = "<group>";
