@@ -57,6 +57,7 @@
 		368593032818B5280027A9AE /* 10870 피보나치수5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10870 피보나치수5.swift"; sourceTree = "<group>"; };
 		36859305281A698F0027A9AE /* 2798 블랙잭.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2798 블랙잭.swift"; sourceTree = "<group>"; };
 		36859307281A94730027A9AE /* 2231 분해합.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2231 분해합.swift"; sourceTree = "<group>"; };
+		368846822A03B1C300912E17 /* 2578. Split With Minimum Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2578. Split With Minimum Sum.swift"; sourceTree = "<group>"; };
 		368846842A03FE7500912E17 /* 349. Intersection of Two Arrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "349. Intersection of Two Arrays.swift"; sourceTree = "<group>"; };
 		368846852A04D15900912E17 /* 1387. Sort Integers by The Power Value.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1387. Sort Integers by The Power Value.swift"; sourceTree = "<group>"; };
 		368A2FF32965B2DF004674F2 /* demo task.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "demo task.swift"; sourceTree = "<group>"; };
@@ -224,6 +225,7 @@
 		368846812A03B18D00912E17 /* Sorting */ = {
 			isa = PBXGroup;
 			children = (
+				368846822A03B1C300912E17 /* 2578. Split With Minimum Sum.swift */,
 				368846842A03FE7500912E17 /* 349. Intersection of Two Arrays.swift */,
 			);
 			path = Sorting;
