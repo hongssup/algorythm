@@ -52,6 +52,7 @@
 		3671FA952837D2DB0054B1B3 /* BinaryGap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryGap.swift; sourceTree = "<group>"; };
 		3671FA97283A7D940054B1B3 /* CyclicRotation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CyclicRotation.swift; sourceTree = "<group>"; };
 		367605AD2A0BA3CD00EE2291 /* 922. Sort Array By Parity II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "922. Sort Array By Parity II.swift"; sourceTree = "<group>"; };
+		367605B02A0F923800EE2291 /* 2078. Two Furthest Houses With Different Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2078. Two Furthest Houses With Different Colors.swift"; sourceTree = "<group>"; };
 		368592FD281771F80027A9AE /* 기능개발.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "기능개발.swift"; sourceTree = "<group>"; };
 		368593012818407C0027A9AE /* 10872 팩토리얼.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10872 팩토리얼.swift"; sourceTree = "<group>"; };
 		368593032818B5280027A9AE /* 10870 피보나치수5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10870 피보나치수5.swift"; sourceTree = "<group>"; };
@@ -201,6 +202,14 @@
 				367605AD2A0BA3CD00EE2291 /* 922. Sort Array By Parity II.swift */,
 			);
 			path = "Two Pointers";
+			sourceTree = "<group>";
+		};
+		367605AF2A0F921900EE2291 /* Greedy */ = {
+			isa = PBXGroup;
+			children = (
+				367605B02A0F923800EE2291 /* 2078. Two Furthest Houses With Different Colors.swift */,
+			);
+			path = Greedy;
 			sourceTree = "<group>";
 		};
 		368592FC281771D80027A9AE /* Level2 */ = {
@@ -447,6 +456,7 @@
 		36F5B54129BAE13500926065 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				367605AF2A0F921900EE2291 /* Greedy */,
 				367605AE2A0BA45E00EE2291 /* Two Pointers */,
 				368846812A03B18D00912E17 /* Sorting */,
 				361A22B929FB6E1C00BFE6D3 /* Stack */,
