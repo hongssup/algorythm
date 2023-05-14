@@ -49,6 +49,7 @@
 		36384FA32921302D006C708B /* 다음 큰 숫자.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "다음 큰 숫자.swift"; sourceTree = "<group>"; };
 		363B855829E7E5620026E90C /* 1931 회의실 배정.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1931 회의실 배정.swift"; sourceTree = "<group>"; };
 		364A92BE29E57F1300D2F394 /* 11047 동전 0.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "11047 동전 0.swift"; sourceTree = "<group>"; };
+		366F01D42A10745800417EC8 /* 2600. K Items With the Maximum Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2600. K Items With the Maximum Sum.swift"; sourceTree = "<group>"; };
 		3671FA952837D2DB0054B1B3 /* BinaryGap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryGap.swift; sourceTree = "<group>"; };
 		3671FA97283A7D940054B1B3 /* CyclicRotation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CyclicRotation.swift; sourceTree = "<group>"; };
 		367605AD2A0BA3CD00EE2291 /* 922. Sort Array By Parity II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "922. Sort Array By Parity II.swift"; sourceTree = "<group>"; };
@@ -208,6 +209,7 @@
 			isa = PBXGroup;
 			children = (
 				367605B02A0F923800EE2291 /* 2078. Two Furthest Houses With Different Colors.swift */,
+				366F01D42A10745800417EC8 /* 2600. K Items With the Maximum Sum.swift */,
 			);
 			path = Greedy;
 			sourceTree = "<group>";
