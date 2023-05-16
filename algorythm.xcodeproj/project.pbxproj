@@ -107,6 +107,7 @@
 		36D62B3527B3E03800789516 /* 3진법 뒤집기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3진법 뒤집기.swift"; sourceTree = "<group>"; };
 		36D62B3727B55CEB00789516 /* 부족한 금액 계산하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "부족한 금액 계산하기.swift"; sourceTree = "<group>"; };
 		36D62B3E27BBF3FD00789516 /* 키패드 누르기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "키패드 누르기.swift"; sourceTree = "<group>"; };
+		36D69F3B2A13B8EF001B4D7E /* 2224. Minimum Number of Operations to Convert Time.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2224. Minimum Number of Operations to Convert Time.swift"; sourceTree = "<group>"; };
 		36D794FE261B51F900C666B1 /* algorythm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = algorythm; sourceTree = BUILT_PRODUCTS_DIR; };
 		36D79501261B51F900C666B1 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		36D7950C261C958F00C666B1 /* 1000 A+B.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1000 A+B.swift"; sourceTree = "<group>"; };
@@ -210,6 +211,7 @@
 			children = (
 				367605B02A0F923800EE2291 /* 2078. Two Furthest Houses With Different Colors.swift */,
 				366F01D42A10745800417EC8 /* 2600. K Items With the Maximum Sum.swift */,
+				36D69F3B2A13B8EF001B4D7E /* 2224. Minimum Number of Operations to Convert Time.swift */,
 			);
 			path = Greedy;
 			sourceTree = "<group>";
