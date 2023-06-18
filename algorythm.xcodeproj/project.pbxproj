@@ -47,6 +47,7 @@
 		36384F9F2920A30D006C708B /* 멀리뛰기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "멀리뛰기.swift"; sourceTree = "<group>"; };
 		36384FA129210E80006C708B /* 피보나치 수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "피보나치 수.swift"; sourceTree = "<group>"; };
 		36384FA32921302D006C708B /* 다음 큰 숫자.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "다음 큰 숫자.swift"; sourceTree = "<group>"; };
+		3638C1232A3F4EB20073916A /* 1337. The K Weakest Rows in a Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1337. The K Weakest Rows in a Matrix.swift"; sourceTree = "<group>"; };
 		363B855829E7E5620026E90C /* 1931 회의실 배정.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1931 회의실 배정.swift"; sourceTree = "<group>"; };
 		364A92BE29E57F1300D2F394 /* 11047 동전 0.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "11047 동전 0.swift"; sourceTree = "<group>"; };
 		366F01D42A10745800417EC8 /* 2600. K Items With the Maximum Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2600. K Items With the Maximum Sum.swift"; sourceTree = "<group>"; };
@@ -178,6 +179,14 @@
 				36384F9D291FEC4F006C708B /* 이중우선순위큐.swift */,
 			);
 			path = Level3;
+			sourceTree = "<group>";
+		};
+		3638C1222A3F4E6E0073916A /* Binary Search */ = {
+			isa = PBXGroup;
+			children = (
+				3638C1232A3F4EB20073916A /* 1337. The K Weakest Rows in a Matrix.swift */,
+			);
+			path = "Binary Search";
 			sourceTree = "<group>";
 		};
 		364A92BD29E57EB800D2F394 /* 탐욕법 Greedy */ = {
@@ -464,6 +473,7 @@
 		36F5B54129BAE13500926065 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				3638C1222A3F4E6E0073916A /* Binary Search */,
 				367605AF2A0F921900EE2291 /* Greedy */,
 				367605AE2A0BA45E00EE2291 /* Two Pointers */,
 				368846812A03B18D00912E17 /* Sorting */,
