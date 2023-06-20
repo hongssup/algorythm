@@ -48,6 +48,7 @@
 		36384FA129210E80006C708B /* 피보나치 수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "피보나치 수.swift"; sourceTree = "<group>"; };
 		36384FA32921302D006C708B /* 다음 큰 숫자.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "다음 큰 숫자.swift"; sourceTree = "<group>"; };
 		3638C1232A3F4EB20073916A /* 1337. The K Weakest Rows in a Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1337. The K Weakest Rows in a Matrix.swift"; sourceTree = "<group>"; };
+		3638C1242A41F4FF0073916A /* 2389. Longest Subsequence With Limited Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2389. Longest Subsequence With Limited Sum.swift"; sourceTree = "<group>"; };
 		363B855829E7E5620026E90C /* 1931 회의실 배정.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1931 회의실 배정.swift"; sourceTree = "<group>"; };
 		364A92BE29E57F1300D2F394 /* 11047 동전 0.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "11047 동전 0.swift"; sourceTree = "<group>"; };
 		366F01D42A10745800417EC8 /* 2600. K Items With the Maximum Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2600. K Items With the Maximum Sum.swift"; sourceTree = "<group>"; };
@@ -185,6 +186,7 @@
 			isa = PBXGroup;
 			children = (
 				3638C1232A3F4EB20073916A /* 1337. The K Weakest Rows in a Matrix.swift */,
+				3638C1242A41F4FF0073916A /* 2389. Longest Subsequence With Limited Sum.swift */,
 			);
 			path = "Binary Search";
 			sourceTree = "<group>";
