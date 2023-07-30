@@ -139,6 +139,7 @@
 		36E470202961921900424834 /* 10816 숫자 카드 2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10816 숫자 카드 2.swift"; sourceTree = "<group>"; };
 		36E470222963023600424834 /* 1654 랜선 자르기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1654 랜선 자르기.swift"; sourceTree = "<group>"; };
 		36E470232963D28500424834 /* 2805 나무 자르기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2805 나무 자르기.swift"; sourceTree = "<group>"; };
+		36EBD2FD2A76ABDA00B6410C /* 1557. Minimum Number of Vertices to Reach All Nodes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1557. Minimum Number of Vertices to Reach All Nodes.swift"; sourceTree = "<group>"; };
 		36F5B53C29B7283700926065 /* 10828 스택.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10828 스택.swift"; sourceTree = "<group>"; };
 		36F5B53E29B87CCB00926065 /* 10773 제로.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10773 제로.swift"; sourceTree = "<group>"; };
 		36F5B53F29B87CE200926065 /* 9012 괄호.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "9012 괄호.swift"; sourceTree = "<group>"; };
@@ -479,6 +480,14 @@
 			path = "해시 Hash";
 			sourceTree = "<group>";
 		};
+		36EBD2FC2A76AB7700B6410C /* Graph */ = {
+			isa = PBXGroup;
+			children = (
+				36EBD2FD2A76ABDA00B6410C /* 1557. Minimum Number of Vertices to Reach All Nodes.swift */,
+			);
+			path = Graph;
+			sourceTree = "<group>";
+		};
 		36F5B53B29B727D300926065 /* 스택 Stack */ = {
 			isa = PBXGroup;
 			children = (
@@ -495,6 +504,7 @@
 		36F5B54129BAE13500926065 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				36EBD2FC2A76AB7700B6410C /* Graph */,
 				368D2A892A72B5C800C61CBF /* Backtracking */,
 				36D26ECB2A70100900016825 /* DFS BFS */,
 				3638C1222A3F4E6E0073916A /* Binary Search */,
