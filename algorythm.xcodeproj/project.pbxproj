@@ -53,6 +53,7 @@
 		363B855829E7E5620026E90C /* 1931 회의실 배정.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1931 회의실 배정.swift"; sourceTree = "<group>"; };
 		364A92BE29E57F1300D2F394 /* 11047 동전 0.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "11047 동전 0.swift"; sourceTree = "<group>"; };
 		366F01D42A10745800417EC8 /* 2600. K Items With the Maximum Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2600. K Items With the Maximum Sum.swift"; sourceTree = "<group>"; };
+		366F45A42AADEAD000D7A475 /* 1806 부분합.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1806 부분합.swift"; sourceTree = "<group>"; };
 		3671FA952837D2DB0054B1B3 /* BinaryGap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryGap.swift; sourceTree = "<group>"; };
 		3671FA97283A7D940054B1B3 /* CyclicRotation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CyclicRotation.swift; sourceTree = "<group>"; };
 		367605AD2A0BA3CD00EE2291 /* 922. Sort Array By Parity II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "922. Sort Array By Parity II.swift"; sourceTree = "<group>"; };
@@ -204,6 +205,15 @@
 			);
 			name = "탐욕법 Greedy";
 			path = "탐욕법 Greedy";
+			sourceTree = "<group>";
+		};
+		366F45A32AADEA8000D7A475 /* 투 포인터 Two Pointers */ = {
+			isa = PBXGroup;
+			children = (
+				366F45A42AADEAD000D7A475 /* 1806 부분합.swift */,
+			);
+			name = "투 포인터 Two Pointers";
+			path = "투 포인터 Two Pointer";
 			sourceTree = "<group>";
 		};
 		3671FA922837D2820054B1B3 /* Codility */ = {
@@ -406,6 +416,7 @@
 		36D7951C261DD8B500C666B1 /* Baekjoon */ = {
 			isa = PBXGroup;
 			children = (
+				366F45A32AADEA8000D7A475 /* 투 포인터 Two Pointers */,
 				364A92BD29E57EB800D2F394 /* 탐욕법 Greedy */,
 				36D9E52D29DE7857002A99B8 /* 동적 계획법 Dynamic Programming */,
 				36D9E52629DAA1FF002A99B8 /* 누적 합 Prefix Sum */,
