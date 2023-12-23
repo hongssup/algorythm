@@ -74,6 +74,7 @@
 		368D2A8A2A72B9A300C61CBF /* 797. All Paths From Source to Target.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "797. All Paths From Source to Target.swift"; sourceTree = "<group>"; };
 		368FFF0E29FD8DC6003F347F /* 496. Next Greater Element I.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "496. Next Greater Element I.swift"; sourceTree = "<group>"; };
 		3692B2BD2AAA171300ACCAB2 /* 2640. Find the Score of All Prefixes of an Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2640. Find the Score of All Prefixes of an Array.swift"; sourceTree = "<group>"; };
+		36AA383E2B36E28D001F5BA4 /* 10025 게으른 백곰.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10025 게으른 백곰.swift"; sourceTree = "<group>"; };
 		36C82FF027848FFC001381C4 /* 짝수와 홀수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "짝수와 홀수.swift"; sourceTree = "<group>"; };
 		36C82FF1278493E6001381C4 /* 제일 작은 수 제거하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "제일 작은 수 제거하기.swift"; sourceTree = "<group>"; };
 		36C82FF627888491001381C4 /* 핸드폰 번호 가리기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "핸드폰 번호 가리기.swift"; sourceTree = "<group>"; };
@@ -300,6 +301,15 @@
 			path = "Prefix Sum";
 			sourceTree = "<group>";
 		};
+		36AA383D2B36E266001F5BA4 /* 슬라이딩 윈도우 Sliding Window */ = {
+			isa = PBXGroup;
+			children = (
+				36AA383E2B36E28D001F5BA4 /* 10025 게으른 백곰.swift */,
+			);
+			name = "슬라이딩 윈도우 Sliding Window";
+			path = "슬라이딩 윈도우 Sliding Window";
+			sourceTree = "<group>";
+		};
 		36C82FEE27848D67001381C4 /* Programmers */ = {
 			isa = PBXGroup;
 			children = (
@@ -416,6 +426,7 @@
 		36D7951C261DD8B500C666B1 /* Baekjoon */ = {
 			isa = PBXGroup;
 			children = (
+				36AA383D2B36E266001F5BA4 /* 슬라이딩 윈도우 Sliding Window */,
 				366F45A32AADEA8000D7A475 /* 투 포인터 Two Pointers */,
 				364A92BD29E57EB800D2F394 /* 탐욕법 Greedy */,
 				36D9E52D29DE7857002A99B8 /* 동적 계획법 Dynamic Programming */,
