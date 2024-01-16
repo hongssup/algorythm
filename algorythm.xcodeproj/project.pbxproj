@@ -150,6 +150,7 @@
 		36F5B54029B87CF000926065 /* 4949 균형잡힌 세상.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "4949 균형잡힌 세상.swift"; sourceTree = "<group>"; };
 		36F5B54229BAE17000926065 /* 2457. Minimum Addition to Make Integer Beautiful.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2457. Minimum Addition to Make Integer Beautiful.swift"; sourceTree = "<group>"; };
 		36F5B54329BB909400926065 /* 1874 스택 수열.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1874 스택 수열.swift"; sourceTree = "<group>"; };
+		36F7ACB32B56CE2B00DA35C0 /* 1213 팰린드롬 만들기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1213 팰린드롬 만들기.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -204,6 +205,7 @@
 			children = (
 				364A92BE29E57F1300D2F394 /* 11047 동전 0.swift */,
 				363B855829E7E5620026E90C /* 1931 회의실 배정.swift */,
+				36F7ACB32B56CE2B00DA35C0 /* 1213 팰린드롬 만들기.swift */,
 			);
 			name = "탐욕법 Greedy";
 			path = "탐욕법 Greedy";
