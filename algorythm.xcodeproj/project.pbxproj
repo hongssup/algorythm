@@ -151,6 +151,7 @@
 		36F5B54229BAE17000926065 /* 2457. Minimum Addition to Make Integer Beautiful.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2457. Minimum Addition to Make Integer Beautiful.swift"; sourceTree = "<group>"; };
 		36F5B54329BB909400926065 /* 1874 스택 수열.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1874 스택 수열.swift"; sourceTree = "<group>"; };
 		36F7ACB32B56CE2B00DA35C0 /* 1213 팰린드롬 만들기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1213 팰린드롬 만들기.swift"; sourceTree = "<group>"; };
+		36F7ACB52B5821BA00DA35C0 /* 1735 분수 합.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1735 분수 합.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -430,6 +431,7 @@
 		36D7951C261DD8B500C666B1 /* Baekjoon */ = {
 			isa = PBXGroup;
 			children = (
+				36F7ACB42B58219500DA35C0 /* 수학 Math */,
 				36AA383D2B36E266001F5BA4 /* 슬라이딩 윈도우 Sliding Window */,
 				366F45A32AADEA8000D7A475 /* 투 포인터 Two Pointers */,
 				364A92BD29E57EB800D2F394 /* 탐욕법 Greedy */,
@@ -553,6 +555,15 @@
 				36F5B54229BAE17000926065 /* 2457. Minimum Addition to Make Integer Beautiful.swift */,
 			);
 			path = LeetCode;
+			sourceTree = "<group>";
+		};
+		36F7ACB42B58219500DA35C0 /* 수학 Math */ = {
+			isa = PBXGroup;
+			children = (
+				36F7ACB52B5821BA00DA35C0 /* 1735 분수 합.swift */,
+			);
+			name = "수학 Math";
+			path = "수학 Math";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
