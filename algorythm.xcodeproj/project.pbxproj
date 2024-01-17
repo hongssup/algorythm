@@ -442,12 +442,7 @@
 				368A2FF4296EBAAE004674F2 /* DFS BFS */,
 				36E4701F296191EE00424834 /* 해시 Hash */,
 				36E4701C295F160300424834 /* 이분탐색 BinarySearch */,
-				36D7950C261C958F00C666B1 /* 1000 A+B.swift */,
-				36D7951F261DF4D700C666B1 /* 1001 A-B.swift */,
-				368593012818407C0027A9AE /* 10872 팩토리얼.swift */,
-				368593032818B5280027A9AE /* 10870 피보나치수5.swift */,
-				36859305281A698F0027A9AE /* 2798 블랙잭.swift */,
-				36859307281A94730027A9AE /* 2231 분해합.swift */,
+				36F7ACB62B58244100DA35C0 /* 완전탐색 Brute force */,
 			);
 			path = Baekjoon;
 			sourceTree = "<group>";
@@ -561,9 +556,23 @@
 			isa = PBXGroup;
 			children = (
 				36F7ACB52B5821BA00DA35C0 /* 1735 분수 합.swift */,
+				36D7950C261C958F00C666B1 /* 1000 A+B.swift */,
+				36D7951F261DF4D700C666B1 /* 1001 A-B.swift */,
+				368593012818407C0027A9AE /* 10872 팩토리얼.swift */,
+				368593032818B5280027A9AE /* 10870 피보나치수5.swift */,
 			);
 			name = "수학 Math";
 			path = "수학 Math";
+			sourceTree = "<group>";
+		};
+		36F7ACB62B58244100DA35C0 /* 완전탐색 Brute force */ = {
+			isa = PBXGroup;
+			children = (
+				36859305281A698F0027A9AE /* 2798 블랙잭.swift */,
+				36859307281A94730027A9AE /* 2231 분해합.swift */,
+			);
+			name = "완전탐색 Brute force";
+			path = "완전탐색 Brute force";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

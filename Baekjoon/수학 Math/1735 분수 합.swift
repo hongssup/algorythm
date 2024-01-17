@@ -4,6 +4,8 @@
 //
 //  Created by SeoYeon Hong on 1/17/24.
 //
+// https://www.acmicpc.net/problem/1735
+// Silver 3
 
 // 유클리드 호제법 69104KB 8ms
 let first = readLine()!.split(separator: " ").compactMap { Int($0) }
