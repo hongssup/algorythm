@@ -152,6 +152,7 @@
 		36F5B54329BB909400926065 /* 1874 스택 수열.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1874 스택 수열.swift"; sourceTree = "<group>"; };
 		36F7ACB32B56CE2B00DA35C0 /* 1213 팰린드롬 만들기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1213 팰린드롬 만들기.swift"; sourceTree = "<group>"; };
 		36F7ACB52B5821BA00DA35C0 /* 1735 분수 합.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1735 분수 합.swift"; sourceTree = "<group>"; };
+		36F7ACB72B59A14500DA35C0 /* 1904 01타일.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1904 01타일.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -487,6 +488,7 @@
 			isa = PBXGroup;
 			children = (
 				36D9E52E29DE7890002A99B8 /* 11660 구간 합 구하기 5.swift */,
+				36F7ACB72B59A14500DA35C0 /* 1904 01타일.swift */,
 			);
 			name = "동적 계획법 Dynamic Programming";
 			path = "동적 계획법 Dynamic Programming";
