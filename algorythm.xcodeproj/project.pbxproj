@@ -75,6 +75,7 @@
 		368FFF0E29FD8DC6003F347F /* 496. Next Greater Element I.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "496. Next Greater Element I.swift"; sourceTree = "<group>"; };
 		3692B2BD2AAA171300ACCAB2 /* 2640. Find the Score of All Prefixes of an Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2640. Find the Score of All Prefixes of an Array.swift"; sourceTree = "<group>"; };
 		36AA383E2B36E28D001F5BA4 /* 10025 게으른 백곰.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10025 게으른 백곰.swift"; sourceTree = "<group>"; };
+		36BB72D02B5BD4A4009EE4FD /* 2193 이친수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2193 이친수.swift"; sourceTree = "<group>"; };
 		36C82FF027848FFC001381C4 /* 짝수와 홀수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "짝수와 홀수.swift"; sourceTree = "<group>"; };
 		36C82FF1278493E6001381C4 /* 제일 작은 수 제거하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "제일 작은 수 제거하기.swift"; sourceTree = "<group>"; };
 		36C82FF627888491001381C4 /* 핸드폰 번호 가리기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "핸드폰 번호 가리기.swift"; sourceTree = "<group>"; };
@@ -489,6 +490,7 @@
 			children = (
 				36D9E52E29DE7890002A99B8 /* 11660 구간 합 구하기 5.swift */,
 				36F7ACB72B59A14500DA35C0 /* 1904 01타일.swift */,
+				36BB72D02B5BD4A4009EE4FD /* 2193 이친수.swift */,
 			);
 			name = "동적 계획법 Dynamic Programming";
 			path = "동적 계획법 Dynamic Programming";
