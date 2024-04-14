@@ -56,6 +56,8 @@
 		366F45A42AADEAD000D7A475 /* 1806 부분합.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1806 부분합.swift"; sourceTree = "<group>"; };
 		3671FA952837D2DB0054B1B3 /* BinaryGap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinaryGap.swift; sourceTree = "<group>"; };
 		3671FA97283A7D940054B1B3 /* CyclicRotation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CyclicRotation.swift; sourceTree = "<group>"; };
+		36738DF72BCA091400FB863A /* 2675 문자열 반복.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2675 문자열 반복.swift"; sourceTree = "<group>"; };
+		36738DF92BCA107F00FB863A /* 8958 OX퀴즈.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "8958 OX퀴즈.swift"; sourceTree = "<group>"; };
 		367605AD2A0BA3CD00EE2291 /* 922. Sort Array By Parity II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "922. Sort Array By Parity II.swift"; sourceTree = "<group>"; };
 		367605B02A0F923800EE2291 /* 2078. Two Furthest Houses With Different Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2078. Two Furthest Houses With Different Colors.swift"; sourceTree = "<group>"; };
 		368592FD281771F80027A9AE /* 기능개발.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "기능개발.swift"; sourceTree = "<group>"; };
@@ -239,6 +241,7 @@
 			isa = PBXGroup;
 			children = (
 				36738DF72BCA091400FB863A /* 2675 문자열 반복.swift */,
+				36738DF92BCA107F00FB863A /* 8958 OX퀴즈.swift */,
 			);
 			name = "구현";
 			path = "구현";
