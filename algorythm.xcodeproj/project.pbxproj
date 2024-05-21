@@ -79,6 +79,7 @@
 		368A2FF829715A7D004674F2 /* 2178 미로 탐색.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2178 미로 탐색.swift"; sourceTree = "<group>"; };
 		368A2FF929758835004674F2 /* 2644 촌수계산.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2644 촌수계산.swift"; sourceTree = "<group>"; };
 		368D2A8A2A72B9A300C61CBF /* 797. All Paths From Source to Target.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "797. All Paths From Source to Target.swift"; sourceTree = "<group>"; };
+		368F93E42BFC3686000B8D92 /* 1546 평균.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1546 평균.swift"; sourceTree = "<group>"; };
 		368FFF0E29FD8DC6003F347F /* 496. Next Greater Element I.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "496. Next Greater Element I.swift"; sourceTree = "<group>"; };
 		3692B2BD2AAA171300ACCAB2 /* 2640. Find the Score of All Prefixes of an Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2640. Find the Score of All Prefixes of an Array.swift"; sourceTree = "<group>"; };
 		36AA383E2B36E28D001F5BA4 /* 10025 게으른 백곰.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10025 게으른 백곰.swift"; sourceTree = "<group>"; };
@@ -598,6 +599,7 @@
 				368593012818407C0027A9AE /* 10872 팩토리얼.swift */,
 				368593032818B5280027A9AE /* 10870 피보나치수5.swift */,
 				3679F6A52BD2AB05008904B4 /* 2869 달팽이는 올라가고 싶다.swift */,
+				368F93E42BFC3686000B8D92 /* 1546 평균.swift */,
 			);
 			name = "수학 Math";
 			path = "수학 Math";
