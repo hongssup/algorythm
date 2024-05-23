@@ -81,6 +81,7 @@
 		368D2A8A2A72B9A300C61CBF /* 797. All Paths From Source to Target.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "797. All Paths From Source to Target.swift"; sourceTree = "<group>"; };
 		368F93E42BFC3686000B8D92 /* 1546 평균.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1546 평균.swift"; sourceTree = "<group>"; };
 		368F93E52BFC8AF0000B8D92 /* 2839 설탕 배달.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2839 설탕 배달.swift"; sourceTree = "<group>"; };
+		368F93E62BFCD1A0000B8D92 /* 2775 부녀회장이 될테야.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2775 부녀회장이 될테야.swift"; sourceTree = "<group>"; };
 		368FFF0E29FD8DC6003F347F /* 496. Next Greater Element I.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "496. Next Greater Element I.swift"; sourceTree = "<group>"; };
 		3692B2BD2AAA171300ACCAB2 /* 2640. Find the Score of All Prefixes of an Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2640. Find the Score of All Prefixes of an Array.swift"; sourceTree = "<group>"; };
 		36AA383E2B36E28D001F5BA4 /* 10025 게으른 백곰.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10025 게으른 백곰.swift"; sourceTree = "<group>"; };
@@ -527,6 +528,7 @@
 				36D9E52E29DE7890002A99B8 /* 11660 구간 합 구하기 5.swift */,
 				36F7ACB72B59A14500DA35C0 /* 1904 01타일.swift */,
 				36BB72D02B5BD4A4009EE4FD /* 2193 이친수.swift */,
+				368F93E62BFCD1A0000B8D92 /* 2775 부녀회장이 될테야.swift */,
 			);
 			name = "동적 계획법 Dynamic Programming";
 			path = "동적 계획법 Dynamic Programming";
