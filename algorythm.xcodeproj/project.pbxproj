@@ -101,6 +101,7 @@
 		36C82FF82789377D001381C4 /* x만큼 간격이 있는 n개의 숫자.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "x만큼 간격이 있는 n개의 숫자.swift"; sourceTree = "<group>"; };
 		36C82FFA278B1CED001381C4 /* 하샤드 수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "하샤드 수.swift"; sourceTree = "<group>"; };
 		36C82FFC278C6252001381C4 /* 콜라츠 추측.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "콜라츠 추측.swift"; sourceTree = "<group>"; };
+		36C884112C0B6DFC0074E8B9 /* 2577 숫자의 개수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2577 숫자의 개수.swift"; sourceTree = "<group>"; };
 		36CC7A95294AEAF300ECAB27 /* 모두의 약수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "모두의 약수.swift"; sourceTree = "<group>"; };
 		36D26ECC2A70103200016825 /* 1971. Find if Path Exists in Graph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1971. Find if Path Exists in Graph.swift"; sourceTree = "<group>"; };
 		36D62B02278DD0FF00789516 /* 직사각형 별찍기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "직사각형 별찍기.swift"; sourceTree = "<group>"; };
@@ -264,6 +265,7 @@
 				368F93E72C00E269000B8D92 /* 1259 팰린드롬수.swift */,
 				36A973552C08C8D9001CBA44 /* 2920 음계.swift */,
 				36A973562C0A11D1001CBA44 /* 10809 알파벳 찾기.swift */,
+				36C884112C0B6DFC0074E8B9 /* 2577 숫자의 개수.swift */,
 			);
 			name = "구현";
 			path = "구현";
