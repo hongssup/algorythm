@@ -4,6 +4,8 @@
 //
 //  Created by SeoYeon Hong on 7/20/24.
 //
+//  https://www.acmicpc.net/problem/2108
+//  Silver 3
 
 import Foundation
 
@@ -39,7 +41,7 @@ if n == 1 {
     print(sortedArr[n-1] - sortedArr[0])
 }
 
-// MARK: - 모범 답안 86120KB 308ms
+// MARK: - 모범 답안 86120KB 304ms
 
 let n = Int(readLine()!)!
 var array: [Int] = []
@@ -62,15 +64,11 @@ print(array[n/2])
 
 // 최빈값
 let maxValue = dict.values.max()
-var mode = dict.filter({ $0.value == maxValue }).keys.sorted()
-if mode.count > 1 {
-    print(mode[1])
-} else {
-    print(mode[0])
-}
+var temp = dict.filter({ $0.value == maxValue }).keys.sorted()
+print(temp.count > 1 ? temp[1] : temp[0])
 
 // 범위
-print(array.max()! - array.min()!)
+print(array[n-1] - array[0])
 
 // MARK: - 모범 답안 86124KB 300ms
 
@@ -90,4 +88,4 @@ let tmp = dict.keys.filter { dict[$0] == max }.sorted()
 print(Int(round(arr.reduce(0.0, +) / Double(arr.count))))
 print(Int(arr[arr.count / 2]))
 print(tmp.count >= 2 ? tmp[1]: tmp[0])
-print(Int(arr[arr.count-1]) - Int(arr[0]))
+print(Int(arr[n-1]) - Int(arr[0]))

@@ -53,6 +53,7 @@
 		3638C1242A41F4FF0073916A /* 2389. Longest Subsequence With Limited Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2389. Longest Subsequence With Limited Sum.swift"; sourceTree = "<group>"; };
 		363B855829E7E5620026E90C /* 1931 회의실 배정.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1931 회의실 배정.swift"; sourceTree = "<group>"; };
 		364A92BE29E57F1300D2F394 /* 11047 동전 0.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "11047 동전 0.swift"; sourceTree = "<group>"; };
+		36580CA52C4C1B6F004E26D1 /* 28702 FizzBuzz.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "28702 FizzBuzz.swift"; sourceTree = "<group>"; };
 		365B3D992C03119600961CA2 /* 1676 팩토리얼 0의 개수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1676 팩토리얼 0의 개수.swift"; sourceTree = "<group>"; };
 		365B3D9A2C03163F00961CA2 /* 2750 수 정렬하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2750 수 정렬하기.swift"; sourceTree = "<group>"; };
 		366F01D42A10745800417EC8 /* 2600. K Items With the Maximum Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2600. K Items With the Maximum Sum.swift"; sourceTree = "<group>"; };
@@ -628,6 +629,7 @@
 				36A973532C04D5EE001CBA44 /* 4153 직각삼각형.swift */,
 				36A973542C077A26001CBA44 /* 3052 나머지.swift */,
 				36AA810E2C4B69230023D1F1 /* 2108 통계학.swift */,
+				36580CA52C4C1B6F004E26D1 /* 28702 FizzBuzz.swift */,
 			);
 			name = "수학 Math";
 			path = "수학 Math";
