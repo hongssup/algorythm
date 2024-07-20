@@ -94,6 +94,7 @@
 		36A973562C0A11D1001CBA44 /* 10809 알파벳 찾기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10809 알파벳 찾기.swift"; sourceTree = "<group>"; };
 		36AA383E2B36E28D001F5BA4 /* 10025 게으른 백곰.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10025 게으른 백곰.swift"; sourceTree = "<group>"; };
 		36AA810D2C4AB4F20023D1F1 /* 30802 웰컴 키트.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "30802 웰컴 키트.swift"; sourceTree = "<group>"; };
+		36AA810E2C4B69230023D1F1 /* 2108 통계학.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2108 통계학.swift"; sourceTree = "<group>"; };
 		36B954992C46D94200A59999 /* 택배상자.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "택배상자.swift"; sourceTree = "<group>"; };
 		36BB72D02B5BD4A4009EE4FD /* 2193 이친수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2193 이친수.swift"; sourceTree = "<group>"; };
 		36BB72D12B5BDABF009EE4FD /* 3273 두 수의 합.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3273 두 수의 합.swift"; sourceTree = "<group>"; };
@@ -626,6 +627,7 @@
 				365B3D992C03119600961CA2 /* 1676 팩토리얼 0의 개수.swift */,
 				36A973532C04D5EE001CBA44 /* 4153 직각삼각형.swift */,
 				36A973542C077A26001CBA44 /* 3052 나머지.swift */,
+				36AA810E2C4B69230023D1F1 /* 2108 통계학.swift */,
 			);
 			name = "수학 Math";
 			path = "수학 Math";
