@@ -28,6 +28,7 @@
 		3603E42629F6D58B0049D7F9 /* 2506. Count Pairs Of Similar Strings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2506. Count Pairs Of Similar Strings.swift"; sourceTree = "<group>"; };
 		3605DCCC2A6C26C100343CBD /* 1884. Egg Drop With 2 Eggs and N Floors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1884. Egg Drop With 2 Eggs and N Floors.swift"; sourceTree = "<group>"; };
 		360FCE1926482FC500531E6B /* 평균 구하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "평균 구하기.swift"; sourceTree = "<group>"; };
+		361689A22C4CF4CA00127834 /* 1463 1로 만들기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1463 1로 만들기.swift"; sourceTree = "<group>"; };
 		361A22BA29FB6E3F00BFE6D3 /* 682. Baseball Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "682. Baseball Game.swift"; sourceTree = "<group>"; };
 		3620088327BD21E100E7E396 /* 비밀지도.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "비밀지도.swift"; sourceTree = "<group>"; };
 		362072FB2BDBE2AF004DD351 /* 10814 나이순 정렬.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10814 나이순 정렬.swift"; sourceTree = "<group>"; };
@@ -550,6 +551,7 @@
 				36F7ACB72B59A14500DA35C0 /* 1904 01타일.swift */,
 				36BB72D02B5BD4A4009EE4FD /* 2193 이친수.swift */,
 				368F93E62BFCD1A0000B8D92 /* 2775 부녀회장이 될테야.swift */,
+				361689A22C4CF4CA00127834 /* 1463 1로 만들기.swift */,
 			);
 			name = "동적 계획법 Dynamic Programming";
 			path = "동적 계획법 Dynamic Programming";
